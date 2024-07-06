@@ -1,5 +1,5 @@
-def food(self,item):
-    print("burger")
+def orderfood(self):
+    print(burger)
 
 
-food("burger")
+orderfood()
