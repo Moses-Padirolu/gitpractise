@@ -1,5 +1,5 @@
 def orderfood(self):
-    print(burger)
+    print("burger")
 
 
 orderfood()
